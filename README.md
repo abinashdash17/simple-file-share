@@ -7,5 +7,4 @@ Steps:
     python .\simple-file-share.py
 
 sources:
-https://www.geeksforgeeks.org/print-colors-python-terminal/ , 
 https://pypi.org/project/qrcode/
